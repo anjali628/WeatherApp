@@ -3,9 +3,12 @@ Android Application using JAVA with an amazing and responsive UI which uses Open
 
 
 
+
 First Screen-
 ![Screenshot_20210123-222355](https://user-images.githubusercontent.com/64889275/105609089-e0227c00-5dcc-11eb-8608-8f99ff6fdfa4.png)
 ![Screenshot_20210123-222400](https://user-images.githubusercontent.com/64889275/105609091-e3b60300-5dcc-11eb-8532-7adf500d67e5.png)
+
+
 
 
 
@@ -14,8 +17,12 @@ Weather of Current Location-
 
 
 
+
+
 Here, user can search for weather of a particular location-
 ![Screenshot_20210123-222517](https://user-images.githubusercontent.com/64889275/105609131-35f72400-5dcd-11eb-98c8-6cd49e27582f.png)
+
+
 
 
 
